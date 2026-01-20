@@ -20,7 +20,7 @@ export default function Folder() {
           <AlertDialog className="" >
             <AlertDialogTrigger asChild>
               <button>
-                <img src="/folder.png" className="w-20" alt="" />
+                <img src="folder.png" className="w-20" alt="" />
                 <span className="font-Quintessential font-bold">Profile</span>
               </button>
             </AlertDialogTrigger>
