@@ -3,10 +3,7 @@
 @import "tw-animate-css";
 
 
- @plugin "daisyui" {
-   themes: lemonade --default, dark   --prefersdark;
- }
-
+ 
  @theme {
   --font-Quantico: "Quantico", sans-serif;
    --font-Quintessential: "Quintessential", serif;
