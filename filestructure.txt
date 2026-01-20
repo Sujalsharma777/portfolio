@@ -1,3 +1,6 @@
+|-- .github
+    |-- workflows
+        |-- nextjs.yml
 |-- .gitignore
 |-- README.md
 |-- components.json
