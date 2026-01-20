@@ -1,0 +1,36 @@
+|-- .gitignore
+|-- README.md
+|-- components.json
+|-- eslint.config.mjs
+|-- jsconfig.json
+|-- next.config.mjs
+|-- package-lock.json
+|-- package.json
+|-- postcss.config.mjs
+|-- public
+    |-- cv.png
+    |-- folder.png
+    |-- github.png
+    |-- grid-image.png
+    |-- instagram-logo.png
+    |-- jan2026.pdf
+    |-- linkedin.png
+    |-- profileimg.jpeg
+|-- src
+    |-- app
+        |-- Component
+            |-- AboutUs.jsx
+            |-- Head.jsx
+            |-- Nav.jsx
+            |-- folder.jsx
+            |-- folderRight.jsx
+            |-- main.jsx
+        |-- globals.css
+        |-- layout.jsx
+        |-- page.jsx
+    |-- components
+        |-- ui
+            |-- alert-dialog.jsx
+            |-- button.jsx
+    |-- lib
+        |-- utils.js
