@@ -37,7 +37,7 @@ export default function Folder() {
                 <div className="py-20 px-20 grid sm:grid-cols-[250px_1fr] gap-y-2 gap-x-4 justify-center items-center">
                   <div className="w-52 ">
                     <img
-                      src="/profileimg.jpeg"
+                      src="profileimg.jpeg"
                       alt="Profile Image "
                       className="rounded-full"
                     />

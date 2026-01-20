@@ -19,7 +19,7 @@ export default function FolderRight() {
           <AlertDialog>
             <AlertDialogTrigger asChild>
               <button>
-                <img src="/folder.png" className="w-20" alt="" />
+                <img src="folder.png" className="w-20" alt="" />
                 <span className="font-Quintessential font-bold">Contact</span>
               </button>
             </AlertDialogTrigger>
@@ -61,7 +61,7 @@ export default function FolderRight() {
           <AlertDialog className="fixed inset-0">
             <AlertDialogTrigger asChild>
               <button>
-                <img src="/folder.png" className="w-20" alt="" />
+                <img src="folder.png" className="w-20" alt="" />
                 <span className="font-Quintessential font-bold">Skills</span>
               </button>
             </AlertDialogTrigger>
