@@ -15,7 +15,7 @@ import {
 export default function Folder() {
   return (
     <>
-      <div className="fixed sm:top-1/3 top-1/2 mx-20 sm:my-0 my-20">
+      <div className="fixed sm:top-1/3 top-0 mx-20 sm:my-0 my-20">
         <div className="flex flex-col gap-14">
           <AlertDialog className="" >
             <AlertDialogTrigger asChild>

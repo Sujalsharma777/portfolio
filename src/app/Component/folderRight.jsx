@@ -14,7 +14,7 @@ import {
 export default function FolderRight() {
   return (
     <>
-      <div className="fixed  sm:top-1/3 top-1/2 right-0 mx-20 my-20">
+      <div className="fixed  sm:top-1/3 top-0  right-0 mx-20 my-20">
         <div className="flex flex-col gap-14">
           <AlertDialog>
             <AlertDialogTrigger asChild>
