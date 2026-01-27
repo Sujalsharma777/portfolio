@@ -38,12 +38,7 @@ export default function FolderRight() {
                     Let's get in touched{" "}
                   </AlertDialogTitle>
                   <AlertDialogDescription>
-                    <a
-                      href=""
-                      className="text-lg font-Quintessential flex gap-1"
-                    >
-                      <CircleUser /> +91 8717904827
-                    </a>
+                   
                     <br />
                     <a
                       href=""
