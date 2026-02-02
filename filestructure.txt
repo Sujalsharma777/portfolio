@@ -26,7 +26,6 @@
             |-- Head.jsx
             |-- Nav.jsx
             |-- folder.jsx
-            |-- folderRight.jsx
             |-- main.jsx
         |-- globals.css
         |-- layout.jsx
